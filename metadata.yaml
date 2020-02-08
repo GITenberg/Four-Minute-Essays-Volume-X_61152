@@ -1,0 +1,32 @@
+_repo: Four-Minute-Essays-Volume-X_61152
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crane, Frank
+    birthdate: 1861
+    deathdate: 1928
+    gutenberg_agent_id: '25967'
+    url: http://www.gutenberg.org/2009/agents/25967
+description: ''
+gutenberg_issued: '2020-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The unconquerable -- Kingdom Come -- The humanities versus the ideals
+  -- Precedent -- There is no laboring class -- The path to perfection -- The ideal
+  woman -- No -- Time -- Salesmanship -- The inward song -- Idleness the mother of
+  progress -- Self-cure -- Personal influence -- Money-makers -- The supreme moment
+  -- Efficiency -- A dull day -- The little god of happy endings -- The art of happy
+  memory -- Subconscious fears -- Laying up -- Human flies -- Keep fit -- The spiritual
+  steam-roller -- Heaven -- The best of life -- Use and beauty -- The ethics of controversy
+  -- Letting things alone -- The pleasures of outlawry -- Justice.
+title: Four Minute Essays, Volume X
+url: http://www.gutenberg.org/ebooks/61152
